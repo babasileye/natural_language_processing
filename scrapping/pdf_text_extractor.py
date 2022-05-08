@@ -3,7 +3,6 @@ from PIL import Image # pip3 install pillow
 from pytesseract import image_to_string  # pip3 install pytesseract (before install tesseract  with brew, apt-get, or windows installer)
 from pdf2image import convert_from_path  # pip3 install pdf2image
 
-
 class PdfTextExtractor:
 
    def __init__(self,pdf_file,resolution=100,tmp_file="page.jpg"):
