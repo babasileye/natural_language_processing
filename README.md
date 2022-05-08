@@ -3,7 +3,7 @@ This repository is under developement. It contains machine learning tools for na
 This repository contain the following folders:
 
 * *scrapping*: contains tools to extract text from pdf file, xml file, and a web url
-* *spell_checking*: contains basics spellching implementation
+* *spell_checking*: contains basic spell checker implementation
 * *text_preprocessing*: contains tools to preprocess text corpus with nltk and tensor flow
 
 
